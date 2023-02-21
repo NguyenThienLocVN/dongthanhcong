@@ -1,0 +1,32 @@
+2023-01-31T14:33:19+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in /Users/lover/Sites/dongthanhcong.vn/wp-content/themes/flatsome-child/functions.php:485
+Stack trace:
+#0 /Users/lover/Sites/dongthanhcong.vn/wp-settings.php(585): include()
+#1 /Users/lover/Sites/dongthanhcong.vn/wp-config.php(118): require_once('/Users/lover/Si...')
+#2 /Users/lover/Sites/dongthanhcong.vn/wp-load.php(50): require_once('/Users/lover/Si...')
+#3 /Users/lover/Sites/dongthanhcong.vn/wp-admin/admin.php(34): require_once('/Users/lover/Si...')
+#4 /Users/lover/Sites/dongthanhcong.vn/wp-admin/theme-editor.php(10): require_once('/Users/lover/Si...')
+#5 {main}
+  thrown in /Users/lover/Sites/dongthanhcong.vn/wp-content/themes/flatsome-child/functions.php on line 485
+
+2023-01-31T14:34:20+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in /Users/lover/Sites/dongthanhcong.vn/wp-content/themes/flatsome-child/functions.php:485
+Stack trace:
+#0 /Users/lover/Sites/dongthanhcong.vn/wp-settings.php(585): include()
+#1 /Users/lover/Sites/dongthanhcong.vn/wp-config.php(118): require_once('/Users/lover/Si...')
+#2 /Users/lover/Sites/dongthanhcong.vn/wp-load.php(50): require_once('/Users/lover/Si...')
+#3 /Users/lover/Sites/dongthanhcong.vn/wp-admin/admin.php(34): require_once('/Users/lover/Si...')
+#4 /Users/lover/Sites/dongthanhcong.vn/wp-admin/theme-editor.php(10): require_once('/Users/lover/Si...')
+#5 {main}
+  thrown in /Users/lover/Sites/dongthanhcong.vn/wp-content/themes/flatsome-child/functions.php on line 485
+
+2023-01-31T14:34:59+00:00 CRITICAL Uncaught Error: Call to undefined function add_meta_box() in /Users/lover/Sites/dongthanhcong.vn/wp-content/themes/flatsome-child/functions.php:485
+Stack trace:
+#0 /Users/lover/Sites/dongthanhcong.vn/wp-settings.php(585): include()
+#1 /Users/lover/Sites/dongthanhcong.vn/wp-config.php(118): require_once('/Users/lover/Si...')
+#2 /Users/lover/Sites/dongthanhcong.vn/wp-load.php(50): require_once('/Users/lover/Si...')
+#3 /Users/lover/Sites/dongthanhcong.vn/wp-admin/admin.php(34): require_once('/Users/lover/Si...')
+#4 /Users/lover/Sites/dongthanhcong.vn/wp-admin/theme-editor.php(10): require_once('/Users/lover/Si...')
+#5 {main}
+  thrown in /Users/lover/Sites/dongthanhcong.vn/wp-content/themes/flatsome-child/functions.php on line 485
+
+2023-01-31T14:36:07+00:00 CRITICAL syntax error in /Users/lover/Sites/dongthanhcong.vn/wp-content/themes/flatsome-child/functions.php on line 485
+

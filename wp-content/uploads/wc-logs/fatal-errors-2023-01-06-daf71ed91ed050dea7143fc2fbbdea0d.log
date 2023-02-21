@@ -1,0 +1,20 @@
+2023-01-06T01:33:21+00:00 CRITICAL Uncaught Error: Call to undefined method RankMath\Helper::choices_countries_3() in /home/chaudama/dongthanhcong.vn/wp-content/plugins/seo-by-rank-math-pro/includes/modules/analytics/class-analytics.php:218
+Stack trace:
+#0 /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-hook.php(308): RankMathPro\Analytics\Analytics->add_country_dropdown3('')
+#1 /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/chaudama/dongthanhcong.vn/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/chaudama/dongthanhcong.vn/wp-content/plugins/seo-by-rank-math/includes/admin/wizard/views/search-console-ui.php(98): do_action('rank_math/analy...')
+#4 /home/chaudama/dongthanhcong.vn/wp-content/plugins/seo-by-rank-math/includes/class-cmb2.php(119): include('/home/chaudama/...')
+#5 /home/chaudama/dongthanhcong.vn/wp-content/plugins/seo-by-rank-math/vendor/cmb2/cmb2/includes/CMB2_Base.php(315): RankMath\CMB2::render_raw(Array, Object(CMB2_Field), NULL)
+#6 /home/chauda in /home/chaudama/dongthanhcong.vn/wp-content/plugins/seo-by-rank-math-pro/includes/modules/analytics/class-analytics.php on line 218
+
+2023-01-06T01:36:52+00:00 CRITICAL Uncaught Error: Call to undefined method RankMath\Helper::choices_countries_3() in /home/chaudama/dongthanhcong.vn/wp-content/plugins/seo-by-rank-math-pro/includes/modules/analytics/class-analytics.php:218
+Stack trace:
+#0 /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-hook.php(308): RankMathPro\Analytics\Analytics->add_country_dropdown3('')
+#1 /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 /home/chaudama/dongthanhcong.vn/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/chaudama/dongthanhcong.vn/wp-content/plugins/seo-by-rank-math/includes/admin/wizard/views/search-console-ui.php(98): do_action('rank_math/analy...')
+#4 /home/chaudama/dongthanhcong.vn/wp-content/plugins/seo-by-rank-math/includes/class-cmb2.php(119): include('/home/chaudama/...')
+#5 /home/chaudama/dongthanhcong.vn/wp-content/plugins/seo-by-rank-math/vendor/cmb2/cmb2/includes/CMB2_Base.php(315): RankMath\CMB2::render_raw(Array, Object(CMB2_Field), NULL)
+#6 /home/chauda in /home/chaudama/dongthanhcong.vn/wp-content/plugins/seo-by-rank-math-pro/includes/modules/analytics/class-analytics.php on line 218
+

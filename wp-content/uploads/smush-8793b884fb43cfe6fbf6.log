@@ -1,0 +1,74 @@
+[2022-12-23 08:25:04 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:26:14 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-12-23 08:26:24 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:26:24 : INFO] - 
+ 
+[2022-12-23 08:26:24 : INFO] - Header for logs at time:  Fri, 23 Dec 2022 08:26:24 +0000 on https://dongthanhcong.vn 
+[2022-12-23 08:26:24 : INFO] - WP: 6.1.1 
+[2022-12-23 08:26:24 : INFO] - PHP: 7.4.33 (litespeed, Linux bv42-24861.azdigihost.com 3.10.0-962.3.2.lve1.5.73.el7.x86_64 #1 SMP Wed Aug 24 21:31:23 UTC 2022 x86_64) 
+[2022-12-23 08:26:24 : INFO] - MySQL: 10.3.37 
+[2022-12-23 08:26:24 : INFO] - WPLANG: vi 
+[2022-12-23 08:26:24 : INFO] - Server: LiteSpeed 
+[2022-12-23 08:26:24 : INFO] - Outbound connections: N 
+[2022-12-23 08:26:24 : INFO] - safe_mode: 0 
+[2022-12-23 08:26:24 : INFO] - max_execution_time: 30 
+[2022-12-23 08:26:24 : INFO] - memory_limit: 512M (used: 41M | 24M) 
+[2022-12-23 08:26:24 : INFO] - multisite: N 
+[2022-12-23 08:26:24 : INFO] - openssl: OpenSSL 1.1.1p  21 Jun 2022 
+[2022-12-23 08:26:25 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:26:26 : INFO] - A total of 112 tasks of type smush found and will be processed in this iteration 
+[2022-12-23 08:26:26 : DEBUG] - Lock option (updraft_lock_smush, wpjd_options) was created in the database 
+[2022-12-23 08:26:26 : INFO] - Lock (updraft_lock_smush, wpjd_options) acquired after initialising the database 
+[2022-12-23 08:26:26 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2022-12-23 08:26:26 : INFO] - Re_Smush_It_Task - Attachment ID : 13, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:26:26 : INFO] - 75 
+[2022-12-23 08:26:27 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:26:28 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:26:30 : INFO] - Backing up the original image - 2016/08/dummy-1-updraft-pre-smush-original.jpg 
+[2022-12-23 08:26:30 : INFO] - Re_Smush_It_Task - Attachment ID : 13, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:26:30 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:26:30 : INFO] - 75 
+[2022-12-23 08:26:31 : INFO] - Re_Smush_It_Task - Attachment ID : 13, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:26:31 : INFO] - 75 
+[2022-12-23 08:26:32 : INFO] - Re_Smush_It_Task - Attachment ID : 13, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:26:33 : INFO] - 75 
+[2022-12-23 08:26:34 : INFO] - Re_Smush_It_Task - Attachment ID : 13, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:26:34 : INFO] - 75 
+[2022-12-23 08:26:38 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:26:40 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:26:49 : INFO] - Successfully optimized the image - /home/chaudama/dongthanhcong.vn/wp-content/uploads/2016/08/dummy-1.jpg.The file was compressed from 2.38 KB to 1.77 KB saving 25.72 percent using WP-Optimize 
+[2022-12-23 08:26:49 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:26:49 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2022-12-23 08:26:49 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2022-12-23 08:26:49 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:26:49 : INFO] - Re_Smush_It_Task - Attachment ID : 14, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:26:57 : INFO] - 75 
+[2022-12-23 08:27:04 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:27:04 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:27:04 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:27:04 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:27:06 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:27:08 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:27:09 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:27:11 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:27:11 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:27:12 : INFO] - Backing up the original image - 2016/08/dummy-2-updraft-pre-smush-original.jpg 
+[2022-12-23 08:27:12 : INFO] - Re_Smush_It_Task - Attachment ID : 14, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:27:12 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:27:15 : INFO] - 75 
+[2022-12-23 08:27:18 : INFO] - Re_Smush_It_Task - Attachment ID : 14, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:27:18 : INFO] - 75 
+[2022-12-23 08:27:19 : INFO] - Re_Smush_It_Task - Attachment ID : 14, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:27:30 : INFO] - 75 
+[2022-12-23 08:27:34 : INFO] - Re_Smush_It_Task - Attachment ID : 14, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:27:37 : INFO] - 75 
+[2022-12-23 08:27:38 : INFO] - Re_Smush_It_Task - Attachment ID : 14, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:27:41 : INFO] - 75 
+[2022-12-23 08:27:42 : INFO] - Re_Smush_It_Task - Attachment ID : 14, Started on : December 23, 2022 08:26:24 
+[2022-12-23 08:28:03 : INFO] - 75 
+[2022-12-23 08:34:03 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:34:03 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:34:03 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:34:03 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:34:03 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 
+[2022-12-23 08:34:03 : INFO] - Could not find file for image: ID=888, file=/home/chaudama/dongthanhcong.vn/wp-content/uploads/2022/03/nguyenthuytrang.jpg 

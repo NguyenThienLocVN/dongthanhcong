@@ -1,0 +1,8 @@
+[06-Jan-2023 12:55:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/chaudama/dongthanhcong.vn/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/chaudama/dongthanhcong.vn/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Jan-2023 18:23:57 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/chaudama/dongthanhcong.vn/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/chaudama/dongthanhcong.vn/wp-includes/widgets/class-wp-widget-block.php on line 17

@@ -1,0 +1,24 @@
+[06-Jan-2023 12:49:11 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-scripts.php on line 18
+[06-Jan-2023 12:49:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-styles.php on line 18
+[06-Jan-2023 12:51:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/chaudama/dongthanhcong.vn/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chaudama/dongthanhcong.vn/wp-includes/template-canvas.php on line 12
+[25-Jan-2023 18:22:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-scripts.php on line 18
+[25-Jan-2023 18:22:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/chaudama/dongthanhcong.vn/wp-includes/class-wp-styles.php on line 18
+[25-Jan-2023 18:22:56 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/chaudama/dongthanhcong.vn/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chaudama/dongthanhcong.vn/wp-includes/template-canvas.php on line 12

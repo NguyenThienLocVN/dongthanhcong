@@ -1,0 +1,90 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.feature {
+    position: relative;
+    overflow: hidden;
+}
+.feature::before {
+	content: "";
+	display: block;
+	padding-top: 56.25%;
+}
+.feature .image{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    background-size: cover;
+    background-position: center;
+}
+ul.row.related-post li {
+    list-style: none;
+}
+.related-title {
+    line-height: 1.3 !important;
+    margin-top: 10px !important;
+}
+
+.custom-headtitle {
+    font-size: 14px;
+    padding: 10px;
+	font-weight: normal;
+}
+
+/*Mô tả dưới tựa đề bài viết - Flatsome.xyz*/
+.large-12.col-thongtin {
+    display: flex;
+}
+.nguoidang, .ngaydang, .chuyenmuc {
+    margin-right: 18px;
+}
+.binhluan:before,.nguoidang:before,.ngaydang:before, .chuyenmuc:before {
+	    font-family: 'FontAwesome';
+    padding-right: 7px;
+}
+.nguoidang:before {
+    content: "\f4ff";
+}
+.ngaydang:before {
+    content: "\f017";
+}
+.chuyenmuc:before {
+    content: "\f07c";
+}
+.binhluan:before {
+    content: "\f086";
+}
+
+/* PART 1 - truoc chuyen canh Lazy Load */
+img[data-lazyloaded]{
+	opacity: 0;
+}
+
+/* PART 2 - hieu ung khi chuyen canh Lazy Load */
+img.litespeed-loaded{
+	-webkit-transition: opacity .3s ease-in;
+	-moz-transition: opacity .3s ease-in;
+	transition: opacity .3s ease-in;
+	opacity: 1;
+}
+
+.product-attention {
+	background: #dae4da;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
